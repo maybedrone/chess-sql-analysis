@@ -32,6 +32,17 @@ openings are played, which win, and how that changes with player skill.
   win rate far more than opening choice does. Cross-checking a surprising
   result revealed the bracket definition, not the openings, was the real story.
 
+## Visuals
+
+**Win rate swings ~30 points by opening — far more than the flat color advantage:**
+![Win rate by opening](results/charts/win_rate_by_opening.png)
+
+**The data concentrates in the middle brackets (why Expert findings are unreliable):**
+![Games by skill level](results/charts/games_by_skill_level.png)
+
+**Best openings by skill level — note how win rates climb past 50% as skill rises:**
+![Study recommendations](results/charts/study_recommendations.png)
+
 ## Caveats & Limitations
 - Bracketing uses White's rating only (see finding above) — a cleaner cut
   would bracket on both players.

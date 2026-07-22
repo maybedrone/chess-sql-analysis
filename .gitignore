@@ -1,5 +1,5 @@
 .venv/
 *.csv
-data.ipynb
 __pycache__/
 .vscode.vscode/
+.vscode
